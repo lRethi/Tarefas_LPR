@@ -3,7 +3,6 @@ using System.Reflection;
 
 class Projeto
 {
-    int sum = 0;
     public static void Main() 
     {
         Projeto p = new Projeto(); 
@@ -14,7 +13,7 @@ class Projeto
         Console.WriteLine("Entre com o valor à ser calculado.");
         int num = Convert.ToInt32(Console.ReadLine());
         int quad = num*num;
-        sum = 0;
+        int sum = 0;
         for (int i = quad; i > 0; i /= 10){
             sum += i%10;
         }
