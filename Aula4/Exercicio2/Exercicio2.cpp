@@ -17,4 +17,5 @@ int main(){
     } else {
         cout << "O número " << A << " não é múltiplo do número " << B << "!" << endl;
     }
+    return 0;
 }
