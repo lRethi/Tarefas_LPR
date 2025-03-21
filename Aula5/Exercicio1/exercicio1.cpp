@@ -25,7 +25,7 @@ int main(){
     }
     if (cont > 0){
         double med = (double)sum/cont;
-        cout << "A média aritmética dos números fornecidos é " << fixed << setprecision(3) << med << endl;
+        cout << "A média aritmética dos números fornecidos é " << fixed << setprecision(1) << med << endl;
     } else{
         cout << "Nenhum número par e/ou válido foi informado." << endl;
     }

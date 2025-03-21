@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio3", "Aula4\Exercic
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula5", "Aula5", "{C9C22370-D9A2-AC29-050F-7139BECDFD26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1", "Aula5\Exercicio1\Exercicio1.csproj", "{6185C025-C1F4-4B84-9482-EFDF0E37A62B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio2", "Aula5\Exercicio2\Exercicio2.csproj", "{78BF9D21-1D44-466D-B7C9-C6D3CAEBCC0E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio4", "Aula5\Exercicio4\Exercicio4.csproj", "{B2BEE3D6-C3D9-493A-B2EF-9BFBA5F00F33}"
