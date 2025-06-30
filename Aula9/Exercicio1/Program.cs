@@ -16,12 +16,6 @@ class Aula9
             string? nomeAdicionado = Convert.ToString(Console.ReadLine());
             listaDeNomes.Add(nomeAdicionado);
         }
-        var nomesOrdenados = listaDeNomes.GroupBy(n => n.Length)
-                                        .OrderBy(g => g.Key)
-                                        .ToList();
-        foreach (var varNome in nomesOrdenados)
-        {
-
-        }
+        
     }
 }
