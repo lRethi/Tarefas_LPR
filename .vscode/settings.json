@@ -52,6 +52,11 @@
         "vector": "cpp",
         "iomanip": "cpp",
         "string": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "xtree": "cpp",
+        "algorithm": "cpp",
+        "map": "cpp",
+        "numeric": "cpp",
+        "optional": "cpp"
     }
 }
