@@ -18,7 +18,7 @@ class Aula9
         }
         foreach (var varNome in listaDeNomes)
         {
-            
+
         }
     }
 }
