@@ -16,6 +16,9 @@ class Aula9
             string? nomeAdicionado = Convert.ToString(Console.ReadLine());
             listaDeNomes.Add(nomeAdicionado);
         }
-        
+        foreach (var varNome in listaDeNomes)
+        {
+            
+        }
     }
 }
