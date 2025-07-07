@@ -51,6 +51,7 @@
         "xutility": "cpp",
         "vector": "cpp",
         "iomanip": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "list": "cpp"
     }
 }
