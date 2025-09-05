@@ -9,7 +9,6 @@ class Aula10
     {
         public double Altura;
         public double Largura;
-
         public double CalcArea() { return Altura * Largura; }
         public double CalcPerimetro() { return 2 * (Altura + Largura); }
     }
